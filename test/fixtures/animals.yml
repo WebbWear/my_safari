@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  species: MyString
+  times_seen: 1
+  location: MyString
+  photo: MyString
+
+two:
+  species: MyString
+  times_seen: 1
+  location: MyString
+  photo: MyString
